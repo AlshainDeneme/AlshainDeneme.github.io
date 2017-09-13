@@ -1,0 +1,6 @@
+RewriteRule ^Takipci$ follow.php [L,NC]
+RewriteRule ^Unf$ unfollow.php [L,NC]
+RewriteRule ^Begeni$ like.php [L,NC]
+RewriteRule ^Kredi$ kredi.php [L,NC]
+RewriteRule ^Anasayfa$ anasayfa.php [L,NC]
+RewriteRule ^checkpoint_required$ checkpoint_required.php [L,NC]

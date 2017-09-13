@@ -1,0 +1,29 @@
+[31-May-2016 18:39:39 Europe/Istanbul] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/silverta/public_html/aslangram/admin/kayit.php on line 2
+[31-May-2016 18:39:39 Europe/Istanbul] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/silverta/public_html/aslangram/admin/kayit.php on line 2
+[31-May-2016 18:39:39 Europe/Istanbul] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/silverta/public_html/aslangram/admin/kayit.php on line 2
+[31-May-2016 18:39:39 Europe/Istanbul] PHP Warning:  include(config/timeclass.php): failed to open stream: No such file or directory in /home/silverta/public_html/aslangram/admin/kayit.php on line 3
+[31-May-2016 18:39:39 Europe/Istanbul] PHP Warning:  include(config/timeclass.php): failed to open stream: No such file or directory in /home/silverta/public_html/aslangram/admin/kayit.php on line 3
+[31-May-2016 18:39:39 Europe/Istanbul] PHP Warning:  include(): Failed opening 'config/timeclass.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/silverta/public_html/aslangram/admin/kayit.php on line 3
+[31-May-2016 18:39:39 Europe/Istanbul] PHP Fatal error:  Class 'DB' not found in /home/silverta/public_html/aslangram/admin/kayit.php on line 13
+[31-May-2016 18:39:39 Europe/Istanbul] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/silverta/public_html/aslangram/admin/kayit.php on line 2
+[31-May-2016 18:39:39 Europe/Istanbul] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/silverta/public_html/aslangram/admin/kayit.php on line 2
+[31-May-2016 18:39:39 Europe/Istanbul] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/silverta/public_html/aslangram/admin/kayit.php on line 2
+[31-May-2016 18:39:39 Europe/Istanbul] PHP Warning:  include(config/timeclass.php): failed to open stream: No such file or directory in /home/silverta/public_html/aslangram/admin/kayit.php on line 3
+[31-May-2016 18:39:39 Europe/Istanbul] PHP Warning:  include(config/timeclass.php): failed to open stream: No such file or directory in /home/silverta/public_html/aslangram/admin/kayit.php on line 3
+[31-May-2016 18:39:39 Europe/Istanbul] PHP Warning:  include(): Failed opening 'config/timeclass.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/silverta/public_html/aslangram/admin/kayit.php on line 3
+[31-May-2016 18:39:39 Europe/Istanbul] PHP Fatal error:  Class 'DB' not found in /home/silverta/public_html/aslangram/admin/kayit.php on line 13
+[31-May-2016 18:40:04 Europe/Istanbul] PHP Warning:  include(./config.php): failed to open stream: No such file or directory in /home/silverta/public_html/aslangram/admin/kayit.php on line 2
+[31-May-2016 18:40:04 Europe/Istanbul] PHP Warning:  include(./config.php): failed to open stream: No such file or directory in /home/silverta/public_html/aslangram/admin/kayit.php on line 2
+[31-May-2016 18:40:04 Europe/Istanbul] PHP Warning:  include(): Failed opening './config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/silverta/public_html/aslangram/admin/kayit.php on line 2
+[31-May-2016 18:40:04 Europe/Istanbul] PHP Warning:  include(./config/timeclass.php): failed to open stream: No such file or directory in /home/silverta/public_html/aslangram/admin/kayit.php on line 3
+[31-May-2016 18:40:04 Europe/Istanbul] PHP Warning:  include(./config/timeclass.php): failed to open stream: No such file or directory in /home/silverta/public_html/aslangram/admin/kayit.php on line 3
+[31-May-2016 18:40:04 Europe/Istanbul] PHP Warning:  include(): Failed opening './config/timeclass.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/silverta/public_html/aslangram/admin/kayit.php on line 3
+[31-May-2016 18:40:04 Europe/Istanbul] PHP Fatal error:  Class 'DB' not found in /home/silverta/public_html/aslangram/admin/kayit.php on line 13
+[31-May-2016 18:40:18 Europe/Istanbul] PHP Fatal error:  Class 'DB' not found in /home/silverta/public_html/aslangram/admin/kayit.php on line 13
+[31-May-2016 18:42:15 Europe/Istanbul] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/silverta/public_html/aslangram/admin/kayit.php on line 2
+[31-May-2016 18:42:15 Europe/Istanbul] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/silverta/public_html/aslangram/admin/kayit.php on line 2
+[31-May-2016 18:42:15 Europe/Istanbul] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/silverta/public_html/aslangram/admin/kayit.php on line 2
+[31-May-2016 18:42:15 Europe/Istanbul] PHP Warning:  include(config/timeclass.php): failed to open stream: No such file or directory in /home/silverta/public_html/aslangram/admin/kayit.php on line 3
+[31-May-2016 18:42:15 Europe/Istanbul] PHP Warning:  include(config/timeclass.php): failed to open stream: No such file or directory in /home/silverta/public_html/aslangram/admin/kayit.php on line 3
+[31-May-2016 18:42:15 Europe/Istanbul] PHP Warning:  include(): Failed opening 'config/timeclass.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/silverta/public_html/aslangram/admin/kayit.php on line 3
+[31-May-2016 18:42:15 Europe/Istanbul] PHP Fatal error:  Class 'DB' not found in /home/silverta/public_html/aslangram/admin/kayit.php on line 15
